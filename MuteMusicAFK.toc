@@ -1,6 +1,6 @@
-## Interface: 110200
+## Interface: 110207, 120000
 ## Title: Mute Music AFK
-## Notes: Automatically mutes music when AFK logout starts
+## Notes: Automatically mutes music when AFK logout starts.
 ## Author: mellow_ayaya
 ## Version: 1.0
 ## SavedVariables: MuteMusicAFKDB
