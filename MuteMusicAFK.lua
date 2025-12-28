@@ -26,10 +26,10 @@ frame:SetScript("OnEvent", function(self, event)
             if savedMusicSetting == "1" then
                 -- Notify user
                 AddonMessage(
-                "AFK logout detected. Music will be muted in 5 seconds to silence the login screen. Cancel logout to prevent this.")
+                    "AFK logout detected. Music will be muted in 19 seconds to silence the login screen. Cancel logout to prevent this.")
 
-                -- Start 5 second timer to mute music (1 second before logout)
-                muteTimer = C_Timer.After(5, function()
+                -- Start 19 second timer to mute music (1 second before logout)
+                muteTimer = C_Timer.After(19, function()
                     SetCVar("Sound_EnableMusic", "0")
                     -- Mark that we auto-muted and save what it was
                     MuteMusicAFKDB.autoMuted = true
