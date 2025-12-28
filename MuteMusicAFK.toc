@@ -5,4 +5,7 @@
 ## Version: 1.0
 ## SavedVariables: MuteMusicAFKDB
 
+## X-License: GNU General Public License version 3 (GPLv3)
+## X-Curse-Project-ID: 1415136
+
 MuteMusicAFK.lua
