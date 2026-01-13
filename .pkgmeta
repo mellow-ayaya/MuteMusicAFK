@@ -1,9 +1,4 @@
-# Basic .pkgmeta file
-package-as: MuteMusicAFK  # Replace with your addon's folder name
-
-# Use this to provide a custom changelog instead of commit messages
+package-as: MuteMusicAFK
 manual-changelog: CHANGELOG.md
-
-# Optional: Ignore files you don't want packaged
 ignore:
   - README.md
