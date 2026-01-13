@@ -7,5 +7,6 @@
 
 ## X-License: GNU General Public License version 3 (GPLv3)
 ## X-Curse-Project-ID: 1415136
+## X-Wago-ID: rN4kmwGD
 
 MuteMusicAFK.lua
