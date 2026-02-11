@@ -2,7 +2,7 @@
 ## Title: Mute Music AFK
 ## Notes: Automatically mutes music when AFK logout starts to disable music in the character select and login menu.
 ## Author: mellow_ayaya
-## Version: 1.0.1
+## Version: 1.0.2
 ## SavedVariables: MuteMusicAFKDB
 
 ## X-License: GNU General Public License version 3 (GPLv3)
