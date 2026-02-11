@@ -1,4 +1,4 @@
-## Interface: 110207, 120000
+## Interface: 120001
 ## Title: Mute Music AFK
 ## Notes: Automatically mutes music when AFK logout starts to disable music in the character select and login menu.
 ## Author: mellow_ayaya
